@@ -1,0 +1,48 @@
+Error #2 ocurred
+Error #3 ocurred
+Error #1 ocurred
+Error #2 ocurred
+Error #2 ocurred
+Error #2 ocurred
+Error #2 ocurred
+Error #3 ocurred
+Error #1 ocurred
+Error #2 ocurred
+Error #1 ocurred
+Error #1 ocurred
+unknown dialect
+name 'value' is not defined
+name 'pli' is not defined
+randint() missing 1 required positional argument: 'b'
+[Errno 2] No such file or directory: '../data.csv'
+True is true
+True is true
+True is true
+True is true
+True is not true?
+Country Cannot be a digit
+Country Cannot be a digit
+Country Cannot be a digit
+list index out of range
+Country Cannot be a digit
+Country Cannot be a digit
+Country Cannot be a digit
+Country Cannot be a digit
+list index out of range
+Country Cannot be a digit
+list index out of range
+list index out of range
+Country Cannot be a digit
+'NoneType' object is not callable
+Country Cannot be a digit
+'NoneType' object is not callable
+Country Cannot be a digit
+Country Cannot be empty
+Country Cannot be empty
+Country Cannot be empty
+Country Cannot be a digit
+Country Cannot be a digit
+list index out of range
+list index out of range
+Country Cannot be a digit
+list index out of range
